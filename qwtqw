@@ -1,3 +1,5 @@
+------rednocus
+
 _G.Text = [[
 Sbp('Wall2Tall',Tag*Ang(-0, 0, -0) + Vec(-9, 0.4000000059604645, 51.5), Plr)
 Sbp('Wall2Tall',Tag*Ang(-0, 0, -0) + Vec(-9, 0.4000000059604645, 60.5), Plr)
